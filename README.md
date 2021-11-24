@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=0:EC573C,100:E8EF7B&animation=fadeIn&fontColor=FFFFFF&text=%20Sangho%20Moon%20%20&height=250&fontSize=100)
 
-<h2 align="center">💁‍♂️ 저를 소개합니다</h2>
+<h3 align="center">💁‍♂️ 저를 소개합니다</h3>
 
 <br />
 
