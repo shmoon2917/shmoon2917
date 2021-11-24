@@ -1,11 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=0:EC573C,100:E8EF7B&animation=fadeIn&fontColor=FFFFFF&text=%20Sangho%20Moon%20%20&height=250&fontSize=100)
 
-<h3 align="center">💁‍♂️ 저를 소개합니다</h3>
+<h2 align="center">💁‍♂️ 저를 소개합니다</h2>
 
 <br />
-<p align="center">2년차 자바스크립트 개발자 문상호입니다</p>
-<p align="center">주로 react로 개발하며, <br/>하루가 다르게 발전하는 프론트엔드 생태계에 관심이 많습니다.</p>
-<p align="center">습관의 힘을 잘 알기 때문에 매일 성장을 위한 루틴을 실행합니다.</p>
+
+<p align="center"><font size="4">2년차 자바스크립트 개발자 문상호입니다</font></p>
+<p align="center"><font size="4">주로 react로 개발하며, <br/>하루가 다르게 발전하는 프론트엔드 생태계에 관심이 많습니다.</font></p>
+<p align="center"><font size="4">습관의 힘을 잘 알기 때문에 매일 성장을 위한 루틴을 실행합니다.</font></p>
 <br />
 
 <h3 align="center">👨‍💻 일할 때 제 모습은요</h3>
