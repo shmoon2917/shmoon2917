@@ -26,15 +26,12 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redux%20saga-2AAE1D?style=flat-square&logo=Redux-Saga&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Styled%20components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
-</p>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Styled%20components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/></a>
-
-<br />
 </p>
+<br />
 
 <h3 align="center">📚 흥미를 느끼고 열심히 공부중인 기술들이에요</h3>
 
@@ -44,6 +41,9 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/></a>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 </p>
 
